@@ -1,0 +1,9 @@
+[Section]
+K1=2
+K2="$$${LANG}"
+K3="1m"
+K4=[1,2,3]
+K5=""
+
+[MySection]
+K5=100
